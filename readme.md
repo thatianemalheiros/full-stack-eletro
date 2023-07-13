@@ -1,9 +1,12 @@
-Fiz esse projeto durante o curso de formação tecnica disponibilizado pela Recode .
+Fiz esse projeto durante o curso de formação tecnica disponibilizado pela Recode.
 
-html5
+HTML5
 
+Aula 01
 - Tags
 - Estrutura Basica
 - Cabeçalho e Corpo
 - Titulos e Paragrafos
-- extra: destacando o titulo em negrito e italico
+- Destaque de texto com negrito e itálico.
+
+Aula 02
