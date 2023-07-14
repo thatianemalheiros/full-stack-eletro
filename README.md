@@ -1,6 +1,6 @@
 Projeto construido durante o curso de formação tecnica full stack disponibilizado pela Recode.
 
-HTML5
+**HTML5**
 - [x] Aula 01
 
 - Tags
