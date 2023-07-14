@@ -1,12 +1,23 @@
-Fiz esse projeto durante o curso de formação tecnica disponibilizado pela Recode.
+#Fiz esse projeto durante o curso de formação tecnica disponibilizado pela Recode.#
 
 HTML5
-
-Aula 01
+[x]Aula 01
 - Tags
 - Estrutura Basica
 - Cabeçalho e Corpo
 - Titulos e Paragrafos
 - Destaque de texto com negrito e itálico.
 
-Aula 02
+[x]Aula 02
+- Novas Paginas
+- Produtos, Lojas e contato
+- Linhas 
+- Imagens
+- Links
+
+[] Aula 03
+- Table
+- Td
+- Tr
+- Rowspan
+- Colspan
