@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 #Fiz esse projeto durante o curso de formação tecnica disponibilizado pela Recode.#
+=======
+# Projeto construido durante o curso de formação tecnica full stack disponibilizado pela Recode.
+Tecnologia usada: HTML 
+
+**HTML5**
+- [x] Aula 01
+>>>>>>> c8c47a4c21bbc9cb3e33b61fac027c5b186538dc
 
 **HTML**
 [x]Aula 01
