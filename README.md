@@ -1,4 +1,5 @@
-Projeto construido durante o curso de formação tecnica full stack disponibilizado pela Recode.
+# Projeto construido durante o curso de formação tecnica full stack disponibilizado pela Recode.
+Tecnologia usada: HTML 
 
 **HTML5**
 - [x] Aula 01
