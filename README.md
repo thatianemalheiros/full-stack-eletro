@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-#Fiz esse projeto durante o curso de formação tecnica disponibilizado pela Recode.#
-=======
 # Projeto construido durante o curso de formação tecnica full stack disponibilizado pela Recode.
 Tecnologia usada: HTML 
 
